@@ -5,6 +5,5 @@
 I’m Neil Jefferson A. Belardo, a 4th year Computer Science student passionate about frontend development. I enjoy building user-friendly interfaces and working on creative web projects. Currently, I’m developing an **Investment Calculator** to sharpen my skills and explore new challenges. I have experience with **React**, **Tailwind CSS**, **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, and I'm currently learning **Angular** to broaden my frontend expertise. 
 
 ## 🌐 Find me around the web  
----
 - Feel free to check out my work on [GitHub](https://github.com/jeffrsnblrdoo) 🏆 
 - connect with me on [LinkedIn](https://www.linkedin.com/in/jeffrsnblrdo) 💼 
