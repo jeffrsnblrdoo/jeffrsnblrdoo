@@ -6,4 +6,4 @@ I’m Neil Jefferson A. Belardo, a 4th year Computer Science student passionate 
 
 ## 🌐 Find me around the web  
 - Feel free to check out my work on [GitHub](https://github.com/jeffrsnblrdoo) 🏆 
-- connect with me on [LinkedIn](https://www.linkedin.com/in/jeffrsnblrdo) 💼 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jeffrsnblrdo) 💼 
